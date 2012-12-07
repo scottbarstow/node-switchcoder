@@ -9,7 +9,5 @@
         "type": "git",
         "url": "https://github.com/scottbarstow/node-switchcoder.git"
     },
-    "dependencies": {
-    },
     "engines": { "node": "*" }
 }
