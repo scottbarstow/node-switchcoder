@@ -1,0 +1,16 @@
+{
+    "name": "node-switchcoder",
+    "version": "0.0.2",
+    "description": "Node.js module to talk to SwitchCoder APIs",
+    "preferGlobal": "false",
+    "main": "index.js",
+    "author": "Scott Barstow ",
+    "keywords": ["switchcoder", "sms api", "voip api"],
+    "repository" : {
+        "type": "git",
+        "url": "https://github.com/scottbarstow/node-switchcoder.git"
+    },
+    "dependencies": {
+    },
+    "engines": { "node": "*" }
+}
